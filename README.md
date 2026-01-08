@@ -48,22 +48,6 @@ Interactive slicers for drill-down analysis.
 
 <img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/a5ac6cfa-9214-4735-a0e8-3741c7882dab" />
 
-
-3. Training Performance Analysis
-
-Training course participation and score distributions
-
-Score Group analysis (10-point increments)
-
-Performance comparisons by department and course
-
-Insights into training effectiveness and outcomes
-
-Interactive slicers for drill-down analysis.
-
-<img width="1443" height="818" alt="image" src="https://github.com/user-attachments/assets/d2c3c6a7-a898-4f4f-821e-80959cb6dc9c" />
-
-
 4. Compensation Analysis
 
 Salary distribution and compensation trends
@@ -71,6 +55,8 @@ Salary distribution and compensation trends
 Comparisons by department, role, and tenure
 
 Identification of potential pay equity concerns
+
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/cad4f2c7-efa5-4450-abcc-b2bf2708692c" />
 
 5. Attrition & Turnover Analysis
 
@@ -88,7 +74,7 @@ Correlation between job satisfaction and exit survey scores.
 
 Interactive slicers for drill-down analysis.
 
-<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/cad4f2c7-efa5-4450-abcc-b2bf2708692c" />
+<img width="1443" height="818" alt="image" src="https://github.com/user-attachments/assets/d2c3c6a7-a898-4f4f-821e-80959cb6dc9c" />
 
 
 🔧 Data & Modeling
