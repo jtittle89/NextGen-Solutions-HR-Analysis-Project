@@ -1,10 +1,11 @@
 # NextGen-Solutions-HR-Analysis-Project
 HR Power BI Analysis Project
+
 📌 Project Overview
 
-This project is an end-to-end HR analytics solution built in Power BI that analyzes employee demographics, engagement survey results, training performance, compensation, and attrition trends. The goal is to surface actionable insights that HR leaders and managers can use to improve retention, engagement, and workforce planning.
+This project is an end-to-end HR analytics solution built in Power BI that analyzes employee demographics, engagement survey results, training performance, attrition trends, and compensation. The goal is to surface actionable insights that HR leaders and managers can use to improve retention, engagement, and workforce planning.
 
-The report demonstrates advanced Power BI capabilities including data modeling, DAX measures, Power Query transformations, interactive dashboards, and automation using Power Automate.
+The report demonstrates advanced Power BI capabilities including data modeling, DAX measures, Power Query transformations, and interactive dashboards.
 
 📊 Dashboards Included
 1. Employee Demographics
@@ -36,7 +37,7 @@ Benefits Satisfaction
 
 Manager Rating
 
-Correlation scatter plots with trend lines to identify relationships between key engagement drivers
+Correlation scatter plots to identify relationships between key engagement drivers.
 
 Department-level comparisons and score distributions.
 
@@ -48,27 +49,17 @@ Interactive slicers for drill-down analysis.
 
 <img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/a5ac6cfa-9214-4735-a0e8-3741c7882dab" />
 
-4. Compensation Analysis
+4. Attrition & Turnover Analysis
 
-Salary distribution and compensation trends
+Total terminated employees and termination rate.
 
-Comparisons by department, role, and tenure
+Average tenure and exit survey score of terminated employees.
 
-Identification of potential pay equity concerns
+Attrition trends over time (by year).
 
-<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/cad4f2c7-efa5-4450-abcc-b2bf2708692c" />
+Separation reasons analysis.
 
-5. Attrition & Turnover Analysis
-
-Total terminated employees and termination rate
-
-Average and median tenure of terminated employees
-
-Attrition trends over time (by year)
-
-Separation reasons analysis
-
-Exit survey score analysis (min, avg, max) by department
+Exit survey score analysis (min, avg, max) by department.
 
 Correlation between job satisfaction and exit survey scores.
 
@@ -76,33 +67,44 @@ Interactive slicers for drill-down analysis.
 
 <img width="1443" height="818" alt="image" src="https://github.com/user-attachments/assets/d2c3c6a7-a898-4f4f-821e-80959cb6dc9c" />
 
+5. Compensation Analysis
+
+Compensation distribution between different roles (min, median, max).
+
+Average salary trends by role and years of service.
+
+Comparisons of average pay by role and gender to identify any pay concerns.
+
+Relation analysis between bonus percentage earned and manager ratings.
+
+<img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/cad4f2c7-efa5-4450-abcc-b2bf2708692c" />
 
 🔧 Data & Modeling
 Datasets Used
     
-    Employees – demographics, hire dates, termination dates, tenure
+    Employees – demographics, hire dates, termination dates, tenure.
     
-    Engagement Survey – multi-year survey responses per employee
+    Engagement Survey – multi-year survey responses per employee.
     
-    Training – course completion and scores
+    Training – course completion and scores.
     
-    Compensation – salary and compensation data
+    Compensation – salary and compensation data.
     
-    Exit Survey – exit feedback for terminated employees
+    Turnover – exit feedback and termination information for terminated employees.
 
 Data Preparation
 
-    Cleaned and transformed data using Power Query
+    Cleaned and transformed data using Power Query.
     
-    Handled nulls, standardized data types, and created derived columns (age groups, tenure, score bands)
+    Handled nulls, standardized data types, and created derived columns (age groups, tenure, score bands).
     
-    Built a relational data model with proper keys and relationships
+    Built a relational data model with proper keys and relationships.
 
 📐 Key DAX Measures & Calculations
 
     Termination Rate (%)
     
-    Average & Median Tenure (Terminated Employees)
+    Average Tenure (Terminated Employees)
     
     Engagement and Satisfaction Averages
     
@@ -111,14 +113,6 @@ Data Preparation
     Attrition trends and cumulative metrics
     
     Correlation-ready measures for scatter plot analysis
-
-🤖 Automation
-
-    Integrated Power Automate to:
-    
-    Automatically export and email reports to stakeholders
-    
-    Demonstrate report distribution and operational analytics use cases
 
 🎯 Key Insights
 
@@ -135,8 +129,6 @@ Data Preparation
     Power BI (Data Modeling, DAX, Visualizations)
     
     Power Query (ETL & data cleaning)
-    
-    Power Automate (report automation)
     
     CSV datasets for structured data ingestion
 
@@ -159,8 +151,6 @@ Data Preparation
     Advanced DAX & KPI development
     
     Data Visualization & Storytelling
-    
-    Automation & Reporting Workflows
 
 📌 Notes
 
