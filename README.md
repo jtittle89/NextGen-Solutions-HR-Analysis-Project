@@ -10,72 +10,72 @@ The report demonstrates advanced Power BI capabilities including data modeling, 
 📊 Dashboards Included
 1. Employee Demographics
 
-KPI cards for active employees, average employee age, and average employee tenure.
-
-Active vs terminated employees.
-
-Count of employees hired each year.
-
-Employee ethnicity for each department.
-
-Employee count by age group.
-
-Interactive slicers for drill-down analysis.
+        KPI cards for active employees, average employee age, and average employee tenure.
+        
+        Active vs terminated employees.
+        
+        Count of employees hired each year.
+        
+        Employee ethnicity for each department.
+        
+        Employee count by age group.
+        
+        Interactive slicers for drill-down analysis.
 
 <img width="1447" height="821" alt="image" src="https://github.com/user-attachments/assets/597d2c69-9a7d-4c67-87e8-76a87ef70880" />
 
 
 2. Engagement Survey and Training Analysis
 
-Analysis of employee survey scores (1–5 scale):
-
-Engagement Score
-
-Job Satisfaction
-
-Benefits Satisfaction
-
-Manager Rating
-
-Correlation scatter plots to identify relationships between key engagement drivers.
-
-Department-level comparisons and score distributions.
-
-Analysis of employee score ratings by course and score group.
-
-Training results compared to manager ratings.
-
-Interactive slicers for drill-down analysis.
+        Analysis of employee survey scores (1–5 scale):
+        
+        Engagement Score
+        
+        Job Satisfaction
+        
+        Benefits Satisfaction
+        
+        Manager Rating
+        
+        Correlation scatter plots to identify relationships between key engagement drivers.
+        
+        Department-level comparisons and score distributions.
+        
+        Analysis of employee score ratings by course and score group.
+        
+        Training results compared to manager ratings.
+        
+        Interactive slicers for drill-down analysis.
 
 <img width="1432" height="816" alt="image" src="https://github.com/user-attachments/assets/a5ac6cfa-9214-4735-a0e8-3741c7882dab" />
 
-4. Attrition & Turnover Analysis
+3. Attrition & Turnover Analysis
 
-Total terminated employees and termination rate.
-
-Average tenure and exit survey score of terminated employees.
-
-Attrition trends over time (by year).
-
-Separation reasons analysis.
-
-Exit survey score analysis (min, avg, max) by department.
-
-Correlation between job satisfaction and exit survey scores.
-
-Interactive slicers for drill-down analysis.
+        Total terminated employees and termination rate.
+        
+        Average tenure and exit survey score of terminated employees.
+        
+        Attrition trends over time (by year).
+        
+        Separation reasons analysis.
+        
+        Exit survey score analysis (min, avg, max) by department.
+        
+        Correlation between job satisfaction and exit survey scores.
+        
+        Interactive slicers for drill-down analysis.
 
 <img width="1443" height="818" alt="image" src="https://github.com/user-attachments/assets/d2c3c6a7-a898-4f4f-821e-80959cb6dc9c" />
 
-5. Compensation Analysis
+4. Compensation Analysis
 
-Compensation distribution between different roles (min, median, max).
-
-Average salary trends by role and years of service.
-
-Comparisons of average pay by role and gender to identify any pay concerns.
-
-Relation analysis between bonus percentage earned and manager ratings.
+        Compensation distribution between different roles (min, median, max).
+        
+        Average salary trends by role and years of service.
+        
+        Comparisons of average pay by role and gender to identify any pay concerns.
+        
+        Relation analysis between bonus percentage earned and manager ratings.
 
 <img width="1436" height="815" alt="image" src="https://github.com/user-attachments/assets/cad4f2c7-efa5-4450-abcc-b2bf2708692c" />
 
